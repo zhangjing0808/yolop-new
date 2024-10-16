@@ -1,0 +1,75 @@
+{
+    "name": "5715cd38-af2ede7c",
+    "frames": [
+        {
+            "timestamp": 10000,
+            "objects": [
+                {
+                    "category": "person",
+                    "id": 0,
+                    "attributes": {
+                        "occluded": true,
+                        "truncated": false,
+                        "trafficLightColor": "none"
+                    },
+                    "box2d": {
+                        "x1": 1070.572969,
+                        "y1": 516.570174,
+                        "x2": 1110.501097,
+                        "y2": 595.178677
+                    }
+                },
+                {
+                    "category": "person",
+                    "id": 1,
+                    "attributes": {
+                        "occluded": true,
+                        "truncated": false,
+                        "trafficLightColor": "none"
+                    },
+                    "box2d": {
+                        "x1": 1036.88361,
+                        "y1": 504.092633,
+                        "x2": 1069.325218,
+                        "y2": 587.692154
+                    }
+                },
+                {
+                    "category": "car",
+                    "id": 2,
+                    "attributes": {
+                        "occluded": true,
+                        "truncated": false,
+                        "trafficLightColor": "none"
+                    },
+                    "box2d": {
+                        "x1": 87.342783,
+                        "y1": 362.95544,
+                        "x2": 137.587656,
+                        "y2": 434.218408
+                    }
+                },
+                {
+                    "category": "car",
+                    "id": 3,
+                    "attributes": {
+                        "occluded": false,
+                        "truncated": true,
+                        "trafficLightColor": "none"
+                    },
+                    "box2d": {
+                        "x1": 223.347974,
+                        "y1": 306.947496,
+                        "x2": 920.842483,
+                        "y2": 718.70633
+                    }
+                }
+            ]
+        }
+    ],
+    "attributes": {
+        "weather": "snowy",
+        "scene": "residential",
+        "timeofday": "daytime"
+    }
+}

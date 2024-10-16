@@ -1,0 +1,75 @@
+{
+    "name": "00495359-1d04dd8a",
+    "frames": [
+        {
+            "timestamp": 10000,
+            "objects": [
+                {
+                    "category": "car",
+                    "id": 0,
+                    "attributes": {
+                        "occluded": true,
+                        "truncated": false,
+                        "trafficLightColor": "none"
+                    },
+                    "box2d": {
+                        "x1": 392.534164,
+                        "y1": 515.324661,
+                        "x2": 564.968029,
+                        "y2": 717.412757
+                    }
+                },
+                {
+                    "category": "car",
+                    "id": 1,
+                    "attributes": {
+                        "occluded": true,
+                        "truncated": true,
+                        "trafficLightColor": "none"
+                    },
+                    "box2d": {
+                        "x1": 611.549787,
+                        "y1": 544.210065,
+                        "x2": 704.288002,
+                        "y2": 718.84054
+                    }
+                },
+                {
+                    "category": "car",
+                    "id": 2,
+                    "attributes": {
+                        "occluded": false,
+                        "truncated": true,
+                        "trafficLightColor": "none"
+                    },
+                    "box2d": {
+                        "x1": 0.439315,
+                        "y1": 364.885588,
+                        "x2": 426.581609,
+                        "y2": 719.829019
+                    }
+                },
+                {
+                    "category": "car",
+                    "id": 3,
+                    "attributes": {
+                        "occluded": false,
+                        "truncated": true,
+                        "trafficLightColor": "none"
+                    },
+                    "box2d": {
+                        "x1": 635.259534,
+                        "y1": 419.991786,
+                        "x2": 1277.767886,
+                        "y2": 718.730714
+                    }
+                }
+            ]
+        }
+    ],
+    "attributes": {
+        "weather": "clear",
+        "scene": "parking lot",
+        "timeofday": "daytime"
+    }
+}

@@ -1,0 +1,165 @@
+{
+    "name": "4cdef661-757632de",
+    "frames": [
+        {
+            "timestamp": 10000,
+            "objects": [
+                {
+                    "category": "traffic sign",
+                    "id": 0,
+                    "attributes": {
+                        "occluded": false,
+                        "truncated": true,
+                        "trafficLightColor": "none"
+                    },
+                    "box2d": {
+                        "x1": 0,
+                        "y1": 158.048846,
+                        "x2": 41.175883,
+                        "y2": 201.720237
+                    }
+                },
+                {
+                    "category": "car",
+                    "id": 1,
+                    "attributes": {
+                        "occluded": true,
+                        "truncated": false,
+                        "trafficLightColor": "none"
+                    },
+                    "box2d": {
+                        "x1": 215.393523,
+                        "y1": 356.501156,
+                        "x2": 400.061122,
+                        "y2": 522.452443
+                    }
+                },
+                {
+                    "category": "car",
+                    "id": 2,
+                    "attributes": {
+                        "occluded": true,
+                        "truncated": false,
+                        "trafficLightColor": "none"
+                    },
+                    "box2d": {
+                        "x1": 779.37835,
+                        "y1": 386.803753,
+                        "x2": 854.243595,
+                        "y2": 466.660013
+                    }
+                },
+                {
+                    "category": "car",
+                    "id": 3,
+                    "attributes": {
+                        "occluded": true,
+                        "truncated": false,
+                        "trafficLightColor": "none"
+                    },
+                    "box2d": {
+                        "x1": 841.587816,
+                        "y1": 358.105411,
+                        "x2": 1127.323493,
+                        "y2": 530.295469
+                    }
+                },
+                {
+                    "category": "car",
+                    "id": 4,
+                    "attributes": {
+                        "occluded": false,
+                        "truncated": true,
+                        "trafficLightColor": "none"
+                    },
+                    "box2d": {
+                        "x1": 1041.228462,
+                        "y1": 340.993364,
+                        "x2": 1278.301726,
+                        "y2": 680.382463
+                    }
+                },
+                {
+                    "category": "car",
+                    "id": 5,
+                    "attributes": {
+                        "occluded": true,
+                        "truncated": false,
+                        "trafficLightColor": "none"
+                    },
+                    "box2d": {
+                        "x1": 343.733954,
+                        "y1": 304.808497,
+                        "x2": 835.349045,
+                        "y2": 710.328561
+                    }
+                },
+                {
+                    "category": "person",
+                    "id": 6,
+                    "attributes": {
+                        "occluded": true,
+                        "truncated": false,
+                        "trafficLightColor": "none"
+                    },
+                    "box2d": {
+                        "x1": 94.42638,
+                        "y1": 366.839689,
+                        "x2": 138.097772,
+                        "y2": 474.146534
+                    }
+                },
+                {
+                    "category": "bike",
+                    "id": 7,
+                    "attributes": {
+                        "occluded": true,
+                        "truncated": true,
+                        "trafficLightColor": "none"
+                    },
+                    "box2d": {
+                        "x1": 0,
+                        "y1": 421.740867,
+                        "x2": 106.903919,
+                        "y2": 556.498303
+                    }
+                },
+                {
+                    "category": "bike",
+                    "id": 8,
+                    "attributes": {
+                        "occluded": false,
+                        "truncated": true,
+                        "trafficLightColor": "none"
+                    },
+                    "box2d": {
+                        "x1": 22.056647,
+                        "y1": 403.024555,
+                        "x2": 111.89494,
+                        "y2": 471.651027
+                    }
+                },
+                {
+                    "category": "traffic sign",
+                    "id": 9,
+                    "attributes": {
+                        "occluded": false,
+                        "truncated": true,
+                        "trafficLightColor": "none"
+                    },
+                    "box2d": {
+                        "x1": 1253.589886,
+                        "y1": 155.969254,
+                        "x2": 1277.297213,
+                        "y2": 197.145141
+                    }
+                }
+            ]
+        }
+    ],
+    "attributes": {
+        "weather": "snowy",
+        "scene": "residential",
+        "timeofday": "dawn/dusk"
+    }
+}
